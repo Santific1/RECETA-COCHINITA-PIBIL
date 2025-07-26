@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color:#d98a51
+}
+
+main{
+    background-color:#b42c2f
+}
+
+footer {
+    background-color:#7d002b
+}
+
+#cheff {
+    width: 20%;
+}
+
+img{
+    width: 30%;
+}
+
