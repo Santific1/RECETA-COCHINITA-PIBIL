@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color:#d98a51;
+    height: 150px;
+    position: sticky;
+    top: 0px;
+    z-index: 2;
+}
+
+main{
+    background-color:#b42c2f;
+    height: 1100px;
+}
+
+footer {
+    background-color:#7d002b
+}
+
+#cochinita {
+    width: 60%;
+    position: relative;
+    left: 20%;
+    top: 40px;
+    border: 17px #7d002b solid;
+}
+
+.redes {
+    width: 10%;
+}
+#titulo {
+    position:absolute;
+    left: 40%;
+    top: 35px;
+    color: brown;
+    border: 5px #7d002b dashed;
+    font-style: initial;
+}
+#cheff{
+    width: 50px;
+    position: relative;
+    left: 30%;
+    top: 35px;
+}
+#menu{
+    position:absolute;
+    left: 80%;
+    top: 50px;
+    color: #7d002b;
+}
+#menu1{
+    position:absolute;
+    left: 80%;
+    top: 70px;
+}
+#boton1{
+    position:relative;
+    left: 80%;
+    top: 80px;
+}
+#boton2{
+    position:relative;
+    left: 80%;
+    top: 80px;
+}
+#subtitulo{
+    position:relative;
+    left: 50%;
+    top: 60px;
+}
+#ingredientes{
+    position:relative;
+    left: 50%;
+    top: 70px;
+}
+#texto-ingredientes{
+    position:relative;
+    left: 40%;
+    top: 80px;
+    color: white;
+}
+#modo{
+    position:relative;
+    left: 50%;
+    top: 90px; 
+}
+#texto-modo-preparacion{
+    position:relative;
+    top: 100px; 
+    color: black;
+    border: 5px #7d002b dashed;
+} 
+#texto{
+    position:relative;
+    top: 110px;  
+    left: 30%;    
+    color: white;
+    border: 5px #7d002b groove;
+    width: 1000px;
+}
+#conoce{
+    position:relative;
+    top: 110px; 
+}
+#corazon{
+    width: 70px;
+    position: relative;
+    left:200px;
+    bottom: 900px;;
+}
+#mensaje{
+    width:70px;
+    position: fixed;
+    right: 100px;
+    bottom: 100px;
+}
